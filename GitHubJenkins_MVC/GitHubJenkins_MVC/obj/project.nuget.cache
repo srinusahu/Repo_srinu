@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mKlOhNStxD1yC1OmD48mKYgdwpoXeO7nBRUCXGVVoLNKo1aF+ciN1GfDMeK0FbTZdhW+5JJUx6Bn4QeLO4VI8g==",
+  "dgSpecHash": "ozmIMKGPQzar7I9x8Nt55V64JPVWV9dYeSvj/yHTJ5kV8/I6wyn5zWIiZHyrf1lzssa6N4wpWi+f3nQEg0U/eg==",
   "success": true,
-  "projectFilePath": "E:\\Github_Project_MVC\\GitHubJenkins_MVC\\GitHubJenkins_MVC\\GitHubJenkins_MVC.csproj",
+  "projectFilePath": "E:\\TestCloneFromGithub\\GitHubJenkins_MVC\\GitHubJenkins_MVC\\GitHubJenkins_MVC.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

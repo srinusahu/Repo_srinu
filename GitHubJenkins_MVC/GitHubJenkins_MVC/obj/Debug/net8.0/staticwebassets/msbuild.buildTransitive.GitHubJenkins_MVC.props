@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\GitHubJenkins_MVC.props" />
+</Project>

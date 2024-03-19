@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Github_Project_MVC\\GitHubJenkins_MVC\\GitHubJenkins_MVC\\GitHubJenkins_MVC.csproj",
+      "projectUniqueName": "E:\\TestCloneFromGithub\\GitHubJenkins_MVC\\GitHubJenkins_MVC\\GitHubJenkins_MVC.csproj",
       "projectName": "GitHubJenkins_MVC",
-      "projectPath": "E:\\Github_Project_MVC\\GitHubJenkins_MVC\\GitHubJenkins_MVC\\GitHubJenkins_MVC.csproj",
+      "projectPath": "E:\\TestCloneFromGithub\\GitHubJenkins_MVC\\GitHubJenkins_MVC\\GitHubJenkins_MVC.csproj",
       "packagesPath": "C:\\Users\\SumitSinghal\\.nuget\\packages\\",
-      "outputPath": "E:\\Github_Project_MVC\\GitHubJenkins_MVC\\GitHubJenkins_MVC\\obj\\",
+      "outputPath": "E:\\TestCloneFromGithub\\GitHubJenkins_MVC\\GitHubJenkins_MVC\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages"

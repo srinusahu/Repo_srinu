@@ -1,0 +1,8 @@
+E:\TestCloneFromGithub\GitHubJenkins_MVC\GitHubJenkins_MVC\obj\Debug\net5.0\GitHubJenkins_MVC.csproj.AssemblyReference.cache
+E:\TestCloneFromGithub\GitHubJenkins_MVC\GitHubJenkins_MVC\obj\Debug\net5.0\GitHubJenkins_MVC.GeneratedMSBuildEditorConfig.editorconfig
+E:\TestCloneFromGithub\GitHubJenkins_MVC\GitHubJenkins_MVC\obj\Debug\net5.0\GitHubJenkins_MVC.AssemblyInfoInputs.cache
+E:\TestCloneFromGithub\GitHubJenkins_MVC\GitHubJenkins_MVC\obj\Debug\net5.0\GitHubJenkins_MVC.AssemblyInfo.cs
+E:\TestCloneFromGithub\GitHubJenkins_MVC\GitHubJenkins_MVC\obj\Debug\net5.0\GitHubJenkins_MVC.csproj.CoreCompileInputs.cache
+E:\TestCloneFromGithub\GitHubJenkins_MVC\GitHubJenkins_MVC\obj\Debug\net5.0\GitHubJenkins_MVC.MvcApplicationPartsAssemblyInfo.cache
+E:\TestCloneFromGithub\GitHubJenkins_MVC\GitHubJenkins_MVC\obj\Debug\net5.0\GitHubJenkins_MVC.RazorAssemblyInfo.cache
+E:\TestCloneFromGithub\GitHubJenkins_MVC\GitHubJenkins_MVC\obj\Debug\net5.0\GitHubJenkins_MVC.RazorAssemblyInfo.cs
