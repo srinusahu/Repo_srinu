@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GitHubJenkins_MVC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3b03ab3a786ce60f623a2162a79658f9bc4434de")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ffe78919b330429c81cc3e4c267ef9001eec422b")]
 [assembly: System.Reflection.AssemblyProductAttribute("GitHubJenkins_MVC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GitHubJenkins_MVC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
